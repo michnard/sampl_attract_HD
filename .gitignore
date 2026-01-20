@@ -6,3 +6,4 @@ high_vs_low_noise_bump_stats.ipynb
 moments.ipynb
 torus.ipynb
 visual_reset.ipynb
+__pycache__
